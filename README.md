@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANDRIAMAROFAHATRA
+- 👋 Hi, I’m @AND
 - 👀 I’m interested in Front end 
 - 🌱 I’m currently learning Javascript
 
