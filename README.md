@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AND
-- 👀 I’m interested in Front end 
-
+- 👋 Hi
+-
 
 
 <!---
